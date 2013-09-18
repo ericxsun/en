@@ -1,0 +1,7 @@
+markdown: rdiscount
+permalink: /:year/:month/:title/
+url: http://followyourheart.github.com/en
+author: Eric x. sun
+pygments: true
+pandoc:
+   extensions: [smart, mathjax]
